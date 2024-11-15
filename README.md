@@ -8,19 +8,19 @@
 
 Задача: Описание процесса закупки сырья на производстве, используя нотацию BPMN 2.0
 
-![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/BPMN описание процесса закупки сырья.png)
+![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/BPMN.png)
 
 Задача: Автоматизация системы бронирования в отеле
 
-![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/Автоматизация процеса бронирования.png)
+![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/bpmnd.png)
 
 Задача: составление Use case диаграммы для разработки мобильного приложения по учету личных финансов
 
-![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/Use case.png)
+![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/UseCase.png)
 
 Задача: составление class diagram  для разработки мобильного приложения по учету личных финансов
 
-![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/class diagram.png)
+![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/class.png)
 
 Задача: составление Suquence диаграммы для разработки мобильного приложения по учету личных финансов
 
