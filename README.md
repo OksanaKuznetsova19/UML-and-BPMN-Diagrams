@@ -12,7 +12,7 @@
 
 Задача: Автоматизация системы бронирования в отеле
 
-![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/bpmnd.png)
+![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/бронирование.png)
 
 Задача: составление Use case диаграммы для разработки мобильного приложения по учету личных финансов
 
