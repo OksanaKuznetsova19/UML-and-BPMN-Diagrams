@@ -1,27 +1,27 @@
 # Мои учебные работы по темам "Моделирование бизнес процессов в нотации BPMN 2.0 и "Унифицированный язык моделирования"
 
 
-Задача: описание верхнеуровнего процесса "заказ пошива одежды в ателье"  в нотации IDEF0.
+## Задача: описание верхнеуровнего процесса "заказ пошива одежды в ателье"  в нотации IDEF0.
 Детализацию процесса оформить в BPMN 2.0 в виде диаграммы взаимодействия.
 
 ![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/Итоговая_работа_BPMN.drawio.png)
 
-Задача: Описание процесса закупки сырья на производстве, используя нотацию BPMN 2.0
+## Задача: Описание процесса закупки сырья на производстве, используя нотацию BPMN 2.0
 
-![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/BPMNmaterials.png)
+![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/BPMN.png)
 
-Задача: Автоматизация системы бронирования в отеле
+## Задача: Автоматизация системы бронирования в отеле
 
 ![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/бронирование.png)
 
-Задача: составление Use case диаграммы для разработки мобильного приложения по учету личных финансов
+## Задача: составление Use case диаграммы для разработки мобильного приложения по учету личных финансов
 
 ![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/UseCase2.png)
 
-Задача: составление class diagram  для разработки мобильного приложения по учету личных финансов
+## Задача: составление class diagram  для разработки мобильного приложения по учету личных финансов
 
 ![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/class.png)
 
-Задача: составление Suquence диаграммы для разработки мобильного приложения по учету личных финансов
+## Задача: составление Suquence диаграммы для разработки мобильного приложения по учету личных финансов
 
 ![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/suquence.jpg)
