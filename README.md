@@ -16,7 +16,7 @@
 
 Задача: составление Use case диаграммы для разработки мобильного приложения по учету личных финансов
 
-![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/UseCase.png)
+![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/UseCase2.png)
 
 Задача: составление class diagram  для разработки мобильного приложения по учету личных финансов
 
