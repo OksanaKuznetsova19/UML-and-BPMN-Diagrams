@@ -8,7 +8,7 @@
 
 ## Задача: Описание процесса закупки сырья на производстве, используя нотацию BPMN 2.0
 
-![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/BPMNmatirials.png)
+![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/BPMNmaterials.png)
 
 ## Задача: Автоматизация системы бронирования в отеле
 
