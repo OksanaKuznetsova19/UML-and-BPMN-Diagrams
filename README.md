@@ -18,11 +18,11 @@
 
 ![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/UseCase2.png)
 
-## Задача: составление диаграммы классов  для разработки системы автоматизации по записи сотрудников на медицинский осмотр
+## Задача: составление диаграммы классов  для  системы автоматизации по записи сотрудников на медицинский осмотр
 
 ![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/class2.png)
 
-## Задача: составление диаграммы классов  для разработки мобильного приложения по учету личных финансов
+## Задача: составление диаграммы классов  для  мобильного приложения по учету личных финансов
 
 ![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/mobileapp.png)
 
