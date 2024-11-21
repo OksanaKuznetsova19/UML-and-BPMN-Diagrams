@@ -24,7 +24,7 @@
 
 ## Задача: составление class diagram  для разработки мобильного приложения по учету личных финансов
 
-![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/class.png)
+![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/mobileapp.png)
 
 
 ## Задача: составление Suquence диаграммы для разработки мобильного приложения по учету личных финансов
