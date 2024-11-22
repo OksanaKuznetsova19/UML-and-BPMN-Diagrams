@@ -29,4 +29,8 @@
 
 ## Задача: составление Suquence диаграммы для разработки мобильного приложения по учету личных финансов
 
-![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/suquence.jpg)
+![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/sequence.png)
+
+## Задача: Описание процесса записи сотрудников на прием в медицинский центр
+
+![Image alt](https://github.com/OksanaKuznetsova19/UML-and-BPMN-Diagrams/blob/main/%D0%BA%D0%B5%D0%B9%D1%81.png)
